@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: GmapsMania
-Plugin URI: http://www.wordpressmania.it/google-maps-mania-plugin/
+Plugin URI: http://www.wpmania.it/google-maps-mania-plugin/
 Description: This plugin allows you to directly embed Gmaps code in your posts or pages using the [gmap] shortcode. 1. Add a custom field with key <i>gmap</i> and value the whole gmap code that you obtain from google, 2. Write [gmap] in your page or post, where you want the map to appear. Save and publish!
-Version: 1.0
+Version: 1.1
 Author: Stefano Garuti 
-Author URI: http://www.wordpressmania.it
+Author URI: http://www.wpmania.it
 
 This plugin is licensed under the terms of the General Public License. Please see the file license.txt.
 

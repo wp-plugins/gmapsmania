@@ -2,7 +2,7 @@
 Contributors: garubi
 Tags: shortcode, google, gmaps, maps
 Requires at least: 2.7
-Tested up to: 2.7.1
+Tested up to: 3.3
 Stable tag: trunk
 
 This plugin allows you to directly embed Gmaps code in your posts or pages using the [gmap] shortcode. 
@@ -19,7 +19,7 @@ Write anywhere in your post or page the "shortcode" [gmap]: when displayed on th
 repalced with your Google Map.
 Save and publish. You are done!
 
-UPDATE and NEWS at: http://www.wordpressmania.it/google-maps-mania-plugin/
+UPDATE and NEWS at: http://www.wpmania.it/google-maps-mania-plugin/
 
 
 == Installation ==
@@ -27,4 +27,11 @@ UPDATE and NEWS at: http://www.wordpressmania.it/google-maps-mania-plugin/
 1. Simply upload the gmapsmania.php file to your plugin folder, like any other plugin
 
 2. Enter your WordPress Dashboard, go to Plugins, and activate GmapsMania as usual
+
+== Changelog ==
+
+1.1  Updated the author's website url
+
+1.0 Initial release
+
 
